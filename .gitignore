@@ -188,3 +188,10 @@ tmp*/
 .user.yml
 
 postgres_data/
+.idea/misc.xml
+.idea/modules.xml
+.idea/my-dagster-and-dbt-project.iml
+.idea/sqldialects.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
